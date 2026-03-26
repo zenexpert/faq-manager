@@ -1,3 +1,5 @@
+# NOTE: this branch is for Zen Cart versions prior to 2.1.0 due to different ways of injecting frontend CSS. This branch will NOT be maintained and updated - please keep your Zen Cart up to date.
+
 # FAQ Manager for Zen Cart
 
 A modern, fully encapsulated FAQ (Frequently Asked Questions) Manager for Zen Cart 2.0+. This plugin allows store owners to create, manage, and group FAQs into categories directly from the Admin dashboard using a responsive Bootstrap interface.
