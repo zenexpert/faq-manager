@@ -52,3 +52,11 @@ To remove the plugin completely:
 
 ## License
 Portions Copyright 2003-2026 Zen Cart Development Team. Released under the **GNU Public License V2.0**.
+
+## Screenshots
+
+![faq-1](https://github.com/user-attachments/assets/3895857a-8982-42cd-b1db-635cce383cf2)
+
+![faq-2](https://github.com/user-attachments/assets/ca5dd2eb-c7f8-4bda-927c-5de5f53fdc47)
+
+![faq-3](https://github.com/user-attachments/assets/56329aaa-97e1-4501-b7ae-eb9074a95dd6)
